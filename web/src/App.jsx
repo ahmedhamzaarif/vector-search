@@ -3,7 +3,7 @@ import axios from 'axios'
 import Loader from './components/Loader';
 import Alert from './components/Alert';
 
-const baseUrl = "https://chatbot-smit-jvpp.vercel.app"
+const baseUrl = "https://social-app-backend-omega.vercel.app"
 
 function App() {
   const titleInputRef = useRef(null)
